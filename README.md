@@ -1,0 +1,2 @@
+# CroppingFrames2Video
+ 動画データから指定したfps間隔でフレーム画像を切り出して保存する
