@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 ## 使用
 
-###ディレクトリ内の動画データからフレームを切り出す
+### ディレクトリ内の動画データからフレームを切り出す
 ```
 python video2img.py --dir_path ./result --video_path movie.mp4 --base_name sumple
 ```
